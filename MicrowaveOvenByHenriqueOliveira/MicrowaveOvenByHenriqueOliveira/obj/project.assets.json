@@ -1,0 +1,206 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0-windows7.0": {
+      "Common/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Common.dll": {}
+        }
+      },
+      "IO/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Common": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/IO.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/IO.dll": {}
+        }
+      },
+      "Log/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Common": "1.0.0",
+          "IO": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Log.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Log.dll": {}
+        }
+      },
+      "StateEngine/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Common": "1.0.0",
+          "Log": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/StateEngine.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/StateEngine.dll": {}
+        }
+      },
+      "StateEngineAnalyzer/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Common": "1.0.0",
+          "IO": "1.0.0",
+          "StateEngine": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/StateEngineAnalyzer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/StateEngineAnalyzer.dll": {}
+        }
+      },
+      "StateEngineVisualizer/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Common": "1.0.0",
+          "IO": "1.0.0",
+          "Log": "1.0.0",
+          "StateEngine": "1.0.0",
+          "StateEngineAnalyzer": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/StateEngineVisualizer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/StateEngineVisualizer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Common/1.0.0": {
+      "type": "project",
+      "path": "../../../../../../../../Projects/Wayne/DotNet/Main/WayneLibraries/Wrk/Common/Common.csproj",
+      "msbuildProject": "../../../../../../../../Projects/Wayne/DotNet/Main/WayneLibraries/Wrk/Common/Common.csproj"
+    },
+    "IO/1.0.0": {
+      "type": "project",
+      "path": "../../../../../../../../Projects/Wayne/DotNet/Main/WayneLibraries/Wrk/IO/IO.csproj",
+      "msbuildProject": "../../../../../../../../Projects/Wayne/DotNet/Main/WayneLibraries/Wrk/IO/IO.csproj"
+    },
+    "Log/1.0.0": {
+      "type": "project",
+      "path": "../../../../../../../../Projects/Wayne/DotNet/Main/WayneLibraries/Wrk/Log/Log.csproj",
+      "msbuildProject": "../../../../../../../../Projects/Wayne/DotNet/Main/WayneLibraries/Wrk/Log/Log.csproj"
+    },
+    "StateEngine/1.0.0": {
+      "type": "project",
+      "path": "../../../../../../../../Projects/Wayne/DotNet/Main/WayneLibraries/Wrk/StateEngine/StateEngine.csproj",
+      "msbuildProject": "../../../../../../../../Projects/Wayne/DotNet/Main/WayneLibraries/Wrk/StateEngine/StateEngine.csproj"
+    },
+    "StateEngineAnalyzer/1.0.0": {
+      "type": "project",
+      "path": "../../../../../../../../Projects/Wayne/DotNet/Main/WayneLibraries/Wrk/StateEngineAnalyzer/StateEngineAnalyzer.csproj",
+      "msbuildProject": "../../../../../../../../Projects/Wayne/DotNet/Main/WayneLibraries/Wrk/StateEngineAnalyzer/StateEngineAnalyzer.csproj"
+    },
+    "StateEngineVisualizer/1.0.0": {
+      "type": "project",
+      "path": "../../../../../../../../Projects/Wayne/DotNet/Main/WayneLibraries/Wrk/StateEngineVisualizer/StateEngineVisualizer.csproj",
+      "msbuildProject": "../../../../../../../../Projects/Wayne/DotNet/Main/WayneLibraries/Wrk/StateEngineVisualizer/StateEngineVisualizer.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0-windows7.0": [
+      "Common >= 1.0.0",
+      "IO >= 1.0.0",
+      "Log >= 1.0.0",
+      "StateEngine >= 1.0.0",
+      "StateEngineAnalyzer >= 1.0.0",
+      "StateEngineVisualizer >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\henrique.oliveira\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\henrique.oliveira\\OneDrive - ISEC\\Gasodata\\Learning\\StateMachine\\MicrowaveOvenByHenriqueOliveira\\MicrowaveOvenByHenriqueOliveira\\MicrowaveOven.csproj",
+      "projectName": "MicrowaveOven",
+      "projectPath": "C:\\Users\\henrique.oliveira\\OneDrive - ISEC\\Gasodata\\Learning\\StateMachine\\MicrowaveOvenByHenriqueOliveira\\MicrowaveOvenByHenriqueOliveira\\MicrowaveOven.csproj",
+      "packagesPath": "C:\\Users\\henrique.oliveira\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\henrique.oliveira\\OneDrive - ISEC\\Gasodata\\Learning\\StateMachine\\MicrowaveOvenByHenriqueOliveira\\MicrowaveOvenByHenriqueOliveira\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\henrique.oliveira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "projectReferences": {
+            "C:\\Projects\\Wayne\\DotNet\\Main\\WayneLibraries\\Wrk\\Common\\Common.csproj": {
+              "projectPath": "C:\\Projects\\Wayne\\DotNet\\Main\\WayneLibraries\\Wrk\\Common\\Common.csproj"
+            },
+            "C:\\Projects\\Wayne\\DotNet\\Main\\WayneLibraries\\Wrk\\IO\\IO.csproj": {
+              "projectPath": "C:\\Projects\\Wayne\\DotNet\\Main\\WayneLibraries\\Wrk\\IO\\IO.csproj"
+            },
+            "C:\\Projects\\Wayne\\DotNet\\Main\\WayneLibraries\\Wrk\\Log\\Log.csproj": {
+              "projectPath": "C:\\Projects\\Wayne\\DotNet\\Main\\WayneLibraries\\Wrk\\Log\\Log.csproj"
+            },
+            "C:\\Projects\\Wayne\\DotNet\\Main\\WayneLibraries\\Wrk\\StateEngineAnalyzer\\StateEngineAnalyzer.csproj": {
+              "projectPath": "C:\\Projects\\Wayne\\DotNet\\Main\\WayneLibraries\\Wrk\\StateEngineAnalyzer\\StateEngineAnalyzer.csproj"
+            },
+            "C:\\Projects\\Wayne\\DotNet\\Main\\WayneLibraries\\Wrk\\StateEngineVisualizer\\StateEngineVisualizer.csproj": {
+              "projectPath": "C:\\Projects\\Wayne\\DotNet\\Main\\WayneLibraries\\Wrk\\StateEngineVisualizer\\StateEngineVisualizer.csproj"
+            },
+            "C:\\Projects\\Wayne\\DotNet\\Main\\WayneLibraries\\Wrk\\StateEngine\\StateEngine.csproj": {
+              "projectPath": "C:\\Projects\\Wayne\\DotNet\\Main\\WayneLibraries\\Wrk\\StateEngine\\StateEngine.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0-windows7.0": {
+        "targetAlias": "net6.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

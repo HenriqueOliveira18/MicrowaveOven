@@ -1,0 +1,219 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\henrique.oliveira\\OneDrive - ISEC\\Gasodata\\Learning\\StateMachine\\MicrowaveOvenByHenriqueOliveira\\MicrowaveOvenByHenriqueOliveira\\MicrowaveOven.csproj": {}
+  },
+  "projects": {
+    "C:\\Projects\\Wayne\\DotNet\\Main\\WayneLibraries\\Wrk\\Common\\Common.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\Wayne\\DotNet\\Main\\WayneLibraries\\Wrk\\Common\\Common.csproj",
+        "projectName": "Common",
+        "projectPath": "C:\\Projects\\Wayne\\DotNet\\Main\\WayneLibraries\\Wrk\\Common\\Common.csproj",
+        "frameworks": {
+          "net40": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net40": {}
+      }
+    },
+    "C:\\Projects\\Wayne\\DotNet\\Main\\WayneLibraries\\Wrk\\IO\\IO.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\Wayne\\DotNet\\Main\\WayneLibraries\\Wrk\\IO\\IO.csproj",
+        "projectName": "IO",
+        "projectPath": "C:\\Projects\\Wayne\\DotNet\\Main\\WayneLibraries\\Wrk\\IO\\IO.csproj",
+        "frameworks": {
+          "net40": {
+            "projectReferences": {
+              "C:\\Projects\\Wayne\\DotNet\\Main\\WayneLibraries\\Wrk\\Common\\Common.csproj": {
+                "projectPath": "C:\\Projects\\Wayne\\DotNet\\Main\\WayneLibraries\\Wrk\\Common\\Common.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net40": {}
+      }
+    },
+    "C:\\Projects\\Wayne\\DotNet\\Main\\WayneLibraries\\Wrk\\Log\\Log.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\Wayne\\DotNet\\Main\\WayneLibraries\\Wrk\\Log\\Log.csproj",
+        "projectName": "Log",
+        "projectPath": "C:\\Projects\\Wayne\\DotNet\\Main\\WayneLibraries\\Wrk\\Log\\Log.csproj",
+        "frameworks": {
+          "net40": {
+            "projectReferences": {
+              "C:\\Projects\\Wayne\\DotNet\\Main\\WayneLibraries\\Wrk\\Common\\Common.csproj": {
+                "projectPath": "C:\\Projects\\Wayne\\DotNet\\Main\\WayneLibraries\\Wrk\\Common\\Common.csproj"
+              },
+              "C:\\Projects\\Wayne\\DotNet\\Main\\WayneLibraries\\Wrk\\IO\\IO.csproj": {
+                "projectPath": "C:\\Projects\\Wayne\\DotNet\\Main\\WayneLibraries\\Wrk\\IO\\IO.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net40": {}
+      }
+    },
+    "C:\\Projects\\Wayne\\DotNet\\Main\\WayneLibraries\\Wrk\\StateEngineAnalyzer\\StateEngineAnalyzer.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\Wayne\\DotNet\\Main\\WayneLibraries\\Wrk\\StateEngineAnalyzer\\StateEngineAnalyzer.csproj",
+        "projectName": "StateEngineAnalyzer",
+        "projectPath": "C:\\Projects\\Wayne\\DotNet\\Main\\WayneLibraries\\Wrk\\StateEngineAnalyzer\\StateEngineAnalyzer.csproj",
+        "frameworks": {
+          "net40": {
+            "projectReferences": {
+              "C:\\Projects\\Wayne\\DotNet\\Main\\WayneLibraries\\Wrk\\Common\\Common.csproj": {
+                "projectPath": "C:\\Projects\\Wayne\\DotNet\\Main\\WayneLibraries\\Wrk\\Common\\Common.csproj"
+              },
+              "C:\\Projects\\Wayne\\DotNet\\Main\\WayneLibraries\\Wrk\\IO\\IO.csproj": {
+                "projectPath": "C:\\Projects\\Wayne\\DotNet\\Main\\WayneLibraries\\Wrk\\IO\\IO.csproj"
+              },
+              "C:\\Projects\\Wayne\\DotNet\\Main\\WayneLibraries\\Wrk\\StateEngine\\StateEngine.csproj": {
+                "projectPath": "C:\\Projects\\Wayne\\DotNet\\Main\\WayneLibraries\\Wrk\\StateEngine\\StateEngine.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net40": {}
+      }
+    },
+    "C:\\Projects\\Wayne\\DotNet\\Main\\WayneLibraries\\Wrk\\StateEngineVisualizer\\StateEngineVisualizer.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\Wayne\\DotNet\\Main\\WayneLibraries\\Wrk\\StateEngineVisualizer\\StateEngineVisualizer.csproj",
+        "projectName": "StateEngineVisualizer",
+        "projectPath": "C:\\Projects\\Wayne\\DotNet\\Main\\WayneLibraries\\Wrk\\StateEngineVisualizer\\StateEngineVisualizer.csproj",
+        "frameworks": {
+          "net40": {
+            "projectReferences": {
+              "C:\\Projects\\Wayne\\DotNet\\Main\\WayneLibraries\\Wrk\\Common\\Common.csproj": {
+                "projectPath": "C:\\Projects\\Wayne\\DotNet\\Main\\WayneLibraries\\Wrk\\Common\\Common.csproj"
+              },
+              "C:\\Projects\\Wayne\\DotNet\\Main\\WayneLibraries\\Wrk\\IO\\IO.csproj": {
+                "projectPath": "C:\\Projects\\Wayne\\DotNet\\Main\\WayneLibraries\\Wrk\\IO\\IO.csproj"
+              },
+              "C:\\Projects\\Wayne\\DotNet\\Main\\WayneLibraries\\Wrk\\Log\\Log.csproj": {
+                "projectPath": "C:\\Projects\\Wayne\\DotNet\\Main\\WayneLibraries\\Wrk\\Log\\Log.csproj"
+              },
+              "C:\\Projects\\Wayne\\DotNet\\Main\\WayneLibraries\\Wrk\\StateEngineAnalyzer\\StateEngineAnalyzer.csproj": {
+                "projectPath": "C:\\Projects\\Wayne\\DotNet\\Main\\WayneLibraries\\Wrk\\StateEngineAnalyzer\\StateEngineAnalyzer.csproj"
+              },
+              "C:\\Projects\\Wayne\\DotNet\\Main\\WayneLibraries\\Wrk\\StateEngine\\StateEngine.csproj": {
+                "projectPath": "C:\\Projects\\Wayne\\DotNet\\Main\\WayneLibraries\\Wrk\\StateEngine\\StateEngine.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net40": {}
+      }
+    },
+    "C:\\Projects\\Wayne\\DotNet\\Main\\WayneLibraries\\Wrk\\StateEngine\\StateEngine.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\Wayne\\DotNet\\Main\\WayneLibraries\\Wrk\\StateEngine\\StateEngine.csproj",
+        "projectName": "StateEngine",
+        "projectPath": "C:\\Projects\\Wayne\\DotNet\\Main\\WayneLibraries\\Wrk\\StateEngine\\StateEngine.csproj",
+        "frameworks": {
+          "net40": {
+            "projectReferences": {
+              "C:\\Projects\\Wayne\\DotNet\\Main\\WayneLibraries\\Wrk\\Common\\Common.csproj": {
+                "projectPath": "C:\\Projects\\Wayne\\DotNet\\Main\\WayneLibraries\\Wrk\\Common\\Common.csproj"
+              },
+              "C:\\Projects\\Wayne\\DotNet\\Main\\WayneLibraries\\Wrk\\Log\\Log.csproj": {
+                "projectPath": "C:\\Projects\\Wayne\\DotNet\\Main\\WayneLibraries\\Wrk\\Log\\Log.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net40": {}
+      }
+    },
+    "C:\\Users\\henrique.oliveira\\OneDrive - ISEC\\Gasodata\\Learning\\StateMachine\\MicrowaveOvenByHenriqueOliveira\\MicrowaveOvenByHenriqueOliveira\\MicrowaveOven.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\henrique.oliveira\\OneDrive - ISEC\\Gasodata\\Learning\\StateMachine\\MicrowaveOvenByHenriqueOliveira\\MicrowaveOvenByHenriqueOliveira\\MicrowaveOven.csproj",
+        "projectName": "MicrowaveOven",
+        "projectPath": "C:\\Users\\henrique.oliveira\\OneDrive - ISEC\\Gasodata\\Learning\\StateMachine\\MicrowaveOvenByHenriqueOliveira\\MicrowaveOvenByHenriqueOliveira\\MicrowaveOven.csproj",
+        "packagesPath": "C:\\Users\\henrique.oliveira\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\henrique.oliveira\\OneDrive - ISEC\\Gasodata\\Learning\\StateMachine\\MicrowaveOvenByHenriqueOliveira\\MicrowaveOvenByHenriqueOliveira\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\henrique.oliveira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Projects\\Wayne\\DotNet\\Main\\WayneLibraries\\Wrk\\Common\\Common.csproj": {
+                "projectPath": "C:\\Projects\\Wayne\\DotNet\\Main\\WayneLibraries\\Wrk\\Common\\Common.csproj"
+              },
+              "C:\\Projects\\Wayne\\DotNet\\Main\\WayneLibraries\\Wrk\\IO\\IO.csproj": {
+                "projectPath": "C:\\Projects\\Wayne\\DotNet\\Main\\WayneLibraries\\Wrk\\IO\\IO.csproj"
+              },
+              "C:\\Projects\\Wayne\\DotNet\\Main\\WayneLibraries\\Wrk\\Log\\Log.csproj": {
+                "projectPath": "C:\\Projects\\Wayne\\DotNet\\Main\\WayneLibraries\\Wrk\\Log\\Log.csproj"
+              },
+              "C:\\Projects\\Wayne\\DotNet\\Main\\WayneLibraries\\Wrk\\StateEngineAnalyzer\\StateEngineAnalyzer.csproj": {
+                "projectPath": "C:\\Projects\\Wayne\\DotNet\\Main\\WayneLibraries\\Wrk\\StateEngineAnalyzer\\StateEngineAnalyzer.csproj"
+              },
+              "C:\\Projects\\Wayne\\DotNet\\Main\\WayneLibraries\\Wrk\\StateEngineVisualizer\\StateEngineVisualizer.csproj": {
+                "projectPath": "C:\\Projects\\Wayne\\DotNet\\Main\\WayneLibraries\\Wrk\\StateEngineVisualizer\\StateEngineVisualizer.csproj"
+              },
+              "C:\\Projects\\Wayne\\DotNet\\Main\\WayneLibraries\\Wrk\\StateEngine\\StateEngine.csproj": {
+                "projectPath": "C:\\Projects\\Wayne\\DotNet\\Main\\WayneLibraries\\Wrk\\StateEngine\\StateEngine.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

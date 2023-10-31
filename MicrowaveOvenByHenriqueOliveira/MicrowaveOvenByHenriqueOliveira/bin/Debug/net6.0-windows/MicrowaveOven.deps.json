@@ -1,0 +1,127 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MicrowaveOven/1.0.0": {
+        "dependencies": {
+          "Common": "1.0.0",
+          "IO": "1.0.0",
+          "Log": "1.0.0",
+          "StateEngine": "1.0.0",
+          "StateEngineAnalyzer": "1.0.0",
+          "StateEngineVisualizer": "1.0.0"
+        },
+        "runtime": {
+          "MicrowaveOven.dll": {}
+        }
+      },
+      "Common/1.0.0": {
+        "runtime": {
+          "Wayne.Lib.Common.dll": {}
+        }
+      },
+      "IO/1.0.0": {
+        "dependencies": {
+          "Common": "1.0.0"
+        },
+        "runtime": {
+          "Wayne.Lib.IO.dll": {}
+        }
+      },
+      "Log/1.0.0": {
+        "dependencies": {
+          "Common": "1.0.0",
+          "IO": "1.0.0"
+        },
+        "runtime": {
+          "Wayne.Lib.Log.dll": {}
+        }
+      },
+      "StateEngine/1.0.0": {
+        "dependencies": {
+          "Common": "1.0.0",
+          "Log": "1.0.0"
+        },
+        "runtime": {
+          "Wayne.Lib.StateEngine.dll": {}
+        }
+      },
+      "StateEngineAnalyzer/1.0.0": {
+        "dependencies": {
+          "Common": "1.0.0",
+          "IO": "1.0.0",
+          "StateEngine": "1.0.0"
+        },
+        "runtime": {
+          "StateEngineAnalyzer.dll": {}
+        }
+      },
+      "StateEngineVisualizer/1.0.0": {
+        "dependencies": {
+          "Common": "1.0.0",
+          "IO": "1.0.0",
+          "Log": "1.0.0",
+          "StateEngine": "1.0.0",
+          "StateEngineAnalyzer": "1.0.0"
+        },
+        "runtime": {
+          "Wayne.Lib.StateEngine.Visualizer.dll": {}
+        }
+      },
+      "Wayne.Lib.Strings/1.0.8697.19453": {
+        "runtime": {
+          "Wayne.Lib.Strings.dll": {
+            "assemblyVersion": "1.0.8697.19453",
+            "fileVersion": "1.0.8697.19453"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MicrowaveOven/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Log/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StateEngine/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StateEngineAnalyzer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StateEngineVisualizer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Wayne.Lib.Strings/1.0.8697.19453": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\..\..\..\..\Projects\Wayne\DotNet\Main\WayneLibraries\Wrk\Common\Common.csproj" />
+    <ProjectReference Include="..\..\..\..\..\..\..\..\Projects\Wayne\DotNet\Main\WayneLibraries\Wrk\IO\IO.csproj" />
+    <ProjectReference Include="..\..\..\..\..\..\..\..\Projects\Wayne\DotNet\Main\WayneLibraries\Wrk\Log\Log.csproj" />
+    <ProjectReference Include="..\..\..\..\..\..\..\..\Projects\Wayne\DotNet\Main\WayneLibraries\Wrk\StateEngineAnalyzer\StateEngineAnalyzer.csproj" />
+    <ProjectReference Include="..\..\..\..\..\..\..\..\Projects\Wayne\DotNet\Main\WayneLibraries\Wrk\StateEngineVisualizer\StateEngineVisualizer.csproj" />
+    <ProjectReference Include="..\..\..\..\..\..\..\..\Projects\Wayne\DotNet\Main\WayneLibraries\Wrk\StateEngine\StateEngine.csproj" />
+  </ItemGroup>
+
+</Project>
