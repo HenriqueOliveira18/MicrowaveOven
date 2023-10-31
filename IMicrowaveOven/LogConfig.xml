@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LogConfigFile xmlns="http://www.wayne.com/2010-01-05/LogConfig.xsd">
+
+  <LogConfig Name="Microwave" Enabled="true">
+    <Filters>
+      <Filter EntityType="MicrowaveOven" FilterLevel="Normal"/>
+    </Filters>
+    <Outputs>
+      <Output Type="TextFileLogWriter">
+        <Parameters >
+          <TextFileParams>
+            <FilePath>
+              C:\Logs\MicrowaveOven\MicrowaveOven_<Date/>.txt
+            </FilePath>
+            <MaxSize MaxSizePerFileMb="50" MaxFileCircleCount="50"/>
+            <EntityLog>Entity</EntityLog>
+          </TextFileParams>
+        </Parameters>
+      </Output>
+    </Outputs>
+  </LogConfig>
+
+  <LeftoverEntities Type="TextFileLogWriter">
+    <Parameters>
+      <TextFileParams>
+        <FilePath>
+			C:\Logs\MicrowaveOven\LeftoverEntities_<Date/>.txt
+        </FilePath>
+        <MaxSize MaxSizePerFileMb="50" MaxFileCircleCount="50"/>
+        <EntityLog>Ancestors</EntityLog>
+      </TextFileParams>
+    </Parameters>
+  </LeftoverEntities>
+
+</LogConfigFile>

@@ -1,0 +1,5 @@
+C:\Users\henrique.oliveira\OneDrive - GASODATA LDA\Ambiente de Trabalho\Henrique\Learning\VSProjects\IMicrowaveOven\obj\Release\MicrowaveOven.csproj.AssemblyReference.cache
+C:\Users\henrique.oliveira\OneDrive - GASODATA LDA\Ambiente de Trabalho\Henrique\Learning\VSProjects\IMicrowaveOven\obj\Release\Wayne.MicrowaveOven.Manager.resources
+C:\Users\henrique.oliveira\OneDrive - GASODATA LDA\Ambiente de Trabalho\Henrique\Learning\VSProjects\IMicrowaveOven\obj\Release\Wayne.MicrowaveOven.Properties.Resources.resources
+C:\Users\henrique.oliveira\OneDrive - GASODATA LDA\Ambiente de Trabalho\Henrique\Learning\VSProjects\IMicrowaveOven\obj\Release\MicrowaveOven.csproj.GenerateResource.cache
+C:\Users\henrique.oliveira\OneDrive - GASODATA LDA\Ambiente de Trabalho\Henrique\Learning\VSProjects\IMicrowaveOven\obj\Release\MicrowaveOven.csproj.CoreCompileInputs.cache

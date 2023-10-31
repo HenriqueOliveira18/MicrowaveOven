@@ -1,0 +1,31 @@
+C:\Users\henrique.oliveira\OneDrive - GASODATA LDA\Ambiente de Trabalho\Henrique\Learning\VSProjects\IMicrowaveOven\obj\Debug\MicrowaveOven.csproj.AssemblyReference.cache
+C:\Users\henrique.oliveira\OneDrive - GASODATA LDA\Ambiente de Trabalho\Henrique\Learning\VSProjects\IMicrowaveOven\obj\Debug\Wayne.MicrowaveOven.Manager.resources
+C:\Users\henrique.oliveira\OneDrive - GASODATA LDA\Ambiente de Trabalho\Henrique\Learning\VSProjects\IMicrowaveOven\obj\Debug\Wayne.MicrowaveOven.Properties.Resources.resources
+C:\Users\henrique.oliveira\OneDrive - GASODATA LDA\Ambiente de Trabalho\Henrique\Learning\VSProjects\IMicrowaveOven\obj\Debug\MicrowaveOven.csproj.GenerateResource.cache
+C:\Users\henrique.oliveira\OneDrive - GASODATA LDA\Ambiente de Trabalho\Henrique\Learning\VSProjects\IMicrowaveOven\obj\Debug\MicrowaveOven.csproj.CoreCompileInputs.cache
+C:\Users\henrique.oliveira\OneDrive - ISEC\Gasodata\Learning\StateMachine\IMicrowaveOven\obj\Debug\MicrowaveOven.csproj.AssemblyReference.cache
+C:\Users\henrique.oliveira\OneDrive - ISEC\Gasodata\Learning\StateMachine\IMicrowaveOven\obj\Debug\Wayne.MicrowaveOven.Manager.resources
+C:\Users\henrique.oliveira\OneDrive - ISEC\Gasodata\Learning\StateMachine\IMicrowaveOven\obj\Debug\Wayne.MicrowaveOven.Properties.Resources.resources
+C:\Users\henrique.oliveira\OneDrive - ISEC\Gasodata\Learning\StateMachine\IMicrowaveOven\obj\Debug\MicrowaveOven.csproj.GenerateResource.cache
+C:\Users\henrique.oliveira\OneDrive - ISEC\Gasodata\Learning\StateMachine\IMicrowaveOven\obj\Debug\MicrowaveOven.csproj.CoreCompileInputs.cache
+C:\Users\henrique.oliveira\OneDrive - ISEC\Gasodata\Learning\StateMachine\IMicrowaveOven\bin\Debug\Wayne.MicrowaveOven.exe
+C:\Users\henrique.oliveira\OneDrive - ISEC\Gasodata\Learning\StateMachine\IMicrowaveOven\bin\Debug\Wayne.MicrowaveOven.pdb
+C:\Users\henrique.oliveira\OneDrive - ISEC\Gasodata\Learning\StateMachine\IMicrowaveOven\bin\Debug\StateEngineAnalyzer.dll
+C:\Users\henrique.oliveira\OneDrive - ISEC\Gasodata\Learning\StateMachine\IMicrowaveOven\bin\Debug\Wayne.Lib.Common.dll
+C:\Users\henrique.oliveira\OneDrive - ISEC\Gasodata\Learning\StateMachine\IMicrowaveOven\bin\Debug\Wayne.Lib.IO.dll
+C:\Users\henrique.oliveira\OneDrive - ISEC\Gasodata\Learning\StateMachine\IMicrowaveOven\bin\Debug\Wayne.Lib.Log.dll
+C:\Users\henrique.oliveira\OneDrive - ISEC\Gasodata\Learning\StateMachine\IMicrowaveOven\bin\Debug\Wayne.Lib.StateEngine.dll
+C:\Users\henrique.oliveira\OneDrive - ISEC\Gasodata\Learning\StateMachine\IMicrowaveOven\bin\Debug\Wayne.Lib.StateEngine.Visualizer.dll
+C:\Users\henrique.oliveira\OneDrive - ISEC\Gasodata\Learning\StateMachine\IMicrowaveOven\bin\Debug\Wayne.Lib.Strings.dll
+C:\Users\henrique.oliveira\OneDrive - ISEC\Gasodata\Learning\StateMachine\IMicrowaveOven\bin\Debug\Wayne.Lib.IO.pdb
+C:\Users\henrique.oliveira\OneDrive - ISEC\Gasodata\Learning\StateMachine\IMicrowaveOven\bin\Debug\Wayne.Lib.StateEngine.Visualizer.pdb
+C:\Users\henrique.oliveira\OneDrive - ISEC\Gasodata\Learning\StateMachine\IMicrowaveOven\bin\Debug\Wayne.Lib.StateEngine.Visualizer.dll.config
+C:\Users\henrique.oliveira\OneDrive - ISEC\Gasodata\Learning\StateMachine\IMicrowaveOven\bin\Debug\Wayne.Lib.StateEngine.pdb
+C:\Users\henrique.oliveira\OneDrive - ISEC\Gasodata\Learning\StateMachine\IMicrowaveOven\bin\Debug\Wayne.Lib.Common.pdb
+C:\Users\henrique.oliveira\OneDrive - ISEC\Gasodata\Learning\StateMachine\IMicrowaveOven\bin\Debug\Wayne.Lib.Log.pdb
+C:\Users\henrique.oliveira\OneDrive - ISEC\Gasodata\Learning\StateMachine\IMicrowaveOven\bin\Debug\StateEngineAnalyzer.pdb
+C:\Users\henrique.oliveira\OneDrive - ISEC\Gasodata\Learning\StateMachine\IMicrowaveOven\bin\Debug\Wayne.Lib.Strings.pdb
+C:\Users\henrique.oliveira\OneDrive - ISEC\Gasodata\Learning\StateMachine\IMicrowaveOven\obj\Debug\MicrowaveOven.csproj.CopyComplete
+C:\Users\henrique.oliveira\OneDrive - ISEC\Gasodata\Learning\StateMachine\IMicrowaveOven\obj\Debug\Wayne.MicrowaveOven.exe
+C:\Users\henrique.oliveira\OneDrive - ISEC\Gasodata\Learning\StateMachine\IMicrowaveOven\obj\Debug\Wayne.MicrowaveOven.pdb
+C:\Users\henrique.oliveira\OneDrive - ISEC\Gasodata\Learning\StateMachine\IMicrowaveOven\bin\Debug\LogConfig.xml

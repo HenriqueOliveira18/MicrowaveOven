@@ -1,0 +1,8 @@
+<States name="Microwave oven" formWidth="1296" formHeight="1010" formLeft="-8" formTop="-8">
+  <Main formWidth="546" formHeight="324" formLeft="0" formTop="0" formScale="1" formOffsetX="0" formOffsetY="0">
+    <State stateName="Wayne.MicrowaveOven.States.Init" x="25" y="18" w="40" h="26" />
+    <State stateName="Wayne.MicrowaveOven.States.DoorOpen" x="104" y="18" w="40" h="26" />
+    <State stateName="Wayne.MicrowaveOven.States.DoorClosed" x="196" y="18" w="40" h="26" />
+    <State stateName="Wayne.MicrowaveOven.States.Cooking.Composite" x="307" y="18" w="40" h="26" />
+  </Main>
+</States>
